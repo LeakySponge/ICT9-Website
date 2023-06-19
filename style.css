@@ -1,0 +1,14 @@
+body {
+    background-color:black ;
+    border: 8px solid red;
+    color: white;
+    text-align: center;
+}
+h1 {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;color:white
+    
+}
+p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    
+}
